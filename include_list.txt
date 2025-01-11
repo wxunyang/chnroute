@@ -36,6 +36,8 @@ good.news
 googleapis-cn.com
 himalaya.exchange
 huggingface.co
+javdb.com
+jdbstatic.com
 justmysocks.net
 kemono.party
 letsencrypt.org
@@ -110,5 +112,3 @@ windowsazure.com
 x.com
 yammer.com
 yammerusercontent.com
-javdb.com
-jdbstatic.com

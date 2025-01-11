@@ -2986,6 +2986,7 @@
     "jav68.tv";
     "javakiba.org";
     "javbus.com";
+    "javdb.com";
     "javfor.me";
     "javhd.com";
     "javhip.com";
@@ -3002,6 +3003,7 @@
     "jbtalks.com";
     "jbtalks.my";
     "jcpenney.com";
+    "jdbstatic.com";
     "jdwsy.com";
     "jeanyim.com";
     "jetos.com";
