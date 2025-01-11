@@ -110,3 +110,5 @@ windowsazure.com
 x.com
 yammer.com
 yammerusercontent.com
+javdb.com
+jdbstatic.com
