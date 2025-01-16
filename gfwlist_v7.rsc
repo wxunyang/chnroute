@@ -3667,7 +3667,6 @@
     "mynumber.org";
     "myparagliding.com";
     "mypicture.info";
-    "mypikpak.com";
     "mypop3.net";
     "mypop3.org";
     "mypopescu.com";
