@@ -148,6 +148,7 @@
     "abc.xyz";
     "abchinese.com";
     "abclite.net";
+    "abebooks.co.uk";
     "abebooks.com";
     "abematv.akamaized.net";
     "abitno.linpie.com";
@@ -875,6 +876,7 @@
     "cari.com.my";
     "caribbeancom.com";
     "carmotorshow.com";
+    "carousell.com.hk";
     "carrd.co";
     "cartoonmovement.com";
     "casadeltibetbcn.org";
@@ -961,6 +963,7 @@
     "changp.com";
     "changsa.net";
     "channelnewsasia.com";
+    "chanworld.org";
     "chaoex.com";
     "chapm25.com";
     "chat.lmsys.org";
@@ -1128,7 +1131,6 @@
     "cmule.org";
     "cmx.im";
     "cn-proxy.com";
-    "cn.dayabook.com";
     "cn.fmnnow.com";
     "cn.freeones.com";
     "cn.giganews.com";
@@ -1199,6 +1201,7 @@
     "coolloud.org.tw";
     "coolncute.com";
     "coolstuffinc.com";
+    "copilot.microsoft.com";
     "cortana.ai";
     "corumcollege.com";
     "cos-moe.com";
@@ -1317,6 +1320,7 @@
     "darktoy.net";
     "darpa.mil";
     "darrenliuwei.com";
+    "dashlane.com";
     "dastrassi.org";
     "data-vocabulary.org";
     "data.flurry.com";
@@ -1646,7 +1650,6 @@
     "esg.t91y.com";
     "eslite.com";
     "esmtp.biz";
-    "esu.dog";
     "esurance.com";
     "etaa.org.au";
     "etadult.com";
@@ -4208,6 +4211,7 @@
     "polymer-project.org";
     "polymerhk.com";
     "poolin.com";
+    "popai.pro";
     "popo.tw";
     "popvote.hk";
     "popxi.click";
@@ -5730,6 +5734,7 @@
     "vovo2000.com";
     "voxer.com";
     "voy.com";
+    "vpl.bibliocommons.com";
     "vpn.ac";
     "vpn.cmu.edu";
     "vpn.sv.cmu.edu";
@@ -5895,7 +5900,6 @@
     "widevine.com";
     "wikaba.com";
     "wiki.cnitter.com";
-    "wiki.esu.im";
     "wiki.gamerp.jp";
     "wiki.jqueryui.com";
     "wiki.keso.cn";
