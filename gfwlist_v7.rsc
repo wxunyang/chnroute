@@ -327,7 +327,6 @@
     "api-secure.recaptcha.net";
     "api-verify.recaptcha.net";
     "api.ai";
-    "api.dropboxapi.com";
     "api.linksalpha.com";
     "api.pureapk.com";
     "api.recaptcha.net";
@@ -736,6 +735,7 @@
     "bloomfortune.com";
     "blubrry.com";
     "blueangellive.com";
+    "bmdru.com";
     "bmfinn.com";
     "bnbstatic.com";
     "bnews.co";
@@ -1490,6 +1490,7 @@
     "drmingxia.org";
     "dropbooks.tv";
     "dropbox.com";
+    "dropboxapi.com";
     "dropboxusercontent.com";
     "drsunacademy.com";
     "drtuber.com";
@@ -1971,7 +1972,7 @@
     "freexinwen.com";
     "freeyellow.com";
     "freeyoutubeproxy.net";
-    "friendfeed-media.com";
+    "freezhihu.org";
     "friendfeed.com";
     "friends-of-tibet.org";
     "friendsoftibet.org";
@@ -3145,6 +3146,7 @@
     "kichiku-doujinko.com";
     "kik.com";
     "killwall.com";
+    "kindle4rss.com";
     "kindleren.com";
     "kineox.free.fr";
     "kingdomsalvation.org";
@@ -3567,6 +3569,7 @@
     "modernchinastudies.org";
     "moeaic.gov.tw";
     "moeerolibrary.com";
+    "moeshare.cc";
     "mofa.gov.tw";
     "mofaxiehui.com";
     "mofos.com";
@@ -3787,12 +3790,12 @@
     "news.ycombinator.com";
     "news100.com.tw";
     "newsancai.com";
+    "newsblur.com";
     "newschinacomment.org";
     "newscn.org";
     "newsdetox.ca";
     "newsdh.com";
     "newsmax.com";
-    "newspeak.cc";
     "newstamago.com";
     "newstapa.org";
     "newstarnet.com";
@@ -3859,7 +3862,6 @@
     "nordvpn.com";
     "nos.nl";
     "notepad-plus-plus.org";
-    "notify.dropboxapi.com";
     "nottinghampost.com";
     "novelasia.com";
     "now.com";
@@ -4197,9 +4199,11 @@
     "pixeldrain.com";
     "pixelqi.com";
     "pixiv.net";
+    "pixivsketch.net";
     "pixnet.net";
     "pk.com";
     "pki.goog";
+    "pkqjiasu.com";
     "placemix.com";
     "play-asia.com";
     "playboy.com";
@@ -4362,6 +4366,7 @@
     "qi-gong.me";
     "qianbai.tw";
     "qiandao.today";
+    "qianglie.com";
     "qiangwaikan.com";
     "qiangyou.org";
     "qidian.ca";
@@ -4417,19 +4422,17 @@
     "rapidmoviez.com";
     "rapidvpn.com";
     "rarbgprx.org";
-    "raremovie.cc";
-    "raremovie.net";
     "rateyourmusic.com";
     "rationalwiki.org";
     "raw.githack.com";
     "rawgit.com";
     "rawgithub.com";
-    "razyboard.com";
     "rcam.target.com";
     "rcinet.ca";
     "rconversation.blogs.com";
     "rd.com";
     "rdio.com";
+    "reabble.com";
     "read01.com";
     "read100.com";
     "readingtimes.com.tw";
@@ -4503,6 +4506,7 @@
     "roboforex.com";
     "robustnessiskey.com";
     "rocket-inc.net";
+    "rocket.chat";
     "rocksdb.org";
     "rojo.com";
     "rolfoundation.org";
@@ -5292,6 +5296,7 @@
     "timtales.com";
     "tinc-vpn.org";
     "tineye.com";
+    "tingtalk.me";
     "tintuc101.com";
     "tiny.cc";
     "tinychat.com";
@@ -5645,6 +5650,7 @@
     "usus.cc";
     "utopianpal.com";
     "uu-gg.com";
+    "uujiasu.com";
     "uukanshu.com";
     "uvwxyz.xyz";
     "uwants.com";
@@ -5766,6 +5772,7 @@
     "vpl.bibliocommons.com";
     "vpn.ac";
     "vpn.cmu.edu";
+    "vpn.net";
     "vpn.sv.cmu.edu";
     "vpn4all.com";
     "vpnaccount.org";
@@ -5876,6 +5883,7 @@
     "webwarper.net";
     "webworkerdaily.com";
     "wechatlawsuit.com";
+    "weebly.com";
     "weekmag.info";
     "wefightcensorship.org";
     "wefong.com";
@@ -5932,7 +5940,6 @@
     "wiki.gamerp.jp";
     "wiki.jqueryui.com";
     "wiki.keso.cn";
-    "wiki.moegirl.org";
     "wiki.oauth.net";
     "wiki.phonegap.com";
     "wikileaks-forum.com";
@@ -6092,10 +6099,10 @@
     "xcafe.in";
     "xcity.jp";
     "xcritic.com";
-    "xda-developers.com";
     "xerotica.com";
     "xfinity.com";
     "xfm.pp.ru";
+    "xfxssr.me";
     "xgmyd.com";
     "xhamster.com";
     "xianba.net";
@@ -6138,6 +6145,7 @@
     "xn--czq75pvv1aj5c.org";
     "xn--i2ru8q2qg.com";
     "xn--ngstr-lra8j.com";
+    "xn--noss43i.com";
     "xn--oiq.cc";
     "xn--p8j9a0d9c9a.xn--q9jyb4c";
     "xnxx.com";
