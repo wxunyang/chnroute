@@ -100,6 +100,7 @@
     "5i01.com";
     "5isotoi5.org";
     "5maodang.com";
+    "611study.icu";
     "63i.com";
     "64museum.org";
     "64tianwang.com";
@@ -3815,6 +3816,7 @@
     "news.tvbs.com.tw";
     "news.yahoo.com";
     "news.ycombinator.com";
+    "news1.kr";
     "news100.com.tw";
     "newsancai.com";
     "newsblur.com";
@@ -4198,6 +4200,7 @@
     "picturedip.com";
     "pictures.playboy.com";
     "picturesocial.com";
+    "picuki.com";
     "pigav.com";
     "pimg.tw";
     "pin-cong.com";
@@ -4980,7 +4983,6 @@
     "strikingly.com";
     "strongvpn.com";
     "strongwindpress.com";
-    "student.tw";
     "studentsforafreetibet.org";
     "stumbleupon.com";
     "stupidvideos.com";
