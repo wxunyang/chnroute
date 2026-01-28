@@ -434,6 +434,7 @@
     "babylonbee.com";
     "babynet.com.hk";
     "backchina.com";
+    "backend-v2.crixet.com";
     "backpackers.com.tw";
     "backtotiananmen.com";
     "bad.news";
@@ -6020,4 +6021,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 6004 domains"
+/log info "GFW domain list updated with 6005 domains"
