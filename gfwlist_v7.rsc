@@ -4462,6 +4462,7 @@
     "silkbook.com";
     "silvergatebank.com";
     "simbolostwitter.com";
+    "simianx.ai";
     "simplecd.me";
     "simplecd.org";
     "simpleproductivityblog.com";
@@ -5866,6 +5867,7 @@
     "yesasia.com.hk";
     "yespornplease.com";
     "yeyeclub.com";
+    "yfsp.tv";
     "ygto.com";
     "yhcw.net";
     "yibada.com";
@@ -6022,4 +6024,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 6006 domains"
+/log info "GFW domain list updated with 6008 domains"
