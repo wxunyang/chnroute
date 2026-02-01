@@ -4754,6 +4754,7 @@
     "tafm.org";
     "tagwalk.com";
     "tahr.org.tw";
+    "tails.net";
     "taipei.gov.tw";
     "taipeisociety.org";
     "taipeitimes.com";
@@ -6027,4 +6028,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 6011 domains"
+/log info "GFW domain list updated with 6012 domains"
