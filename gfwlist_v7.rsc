@@ -255,12 +255,14 @@
     "archives.gov";
     "arctosia.com";
     "areca-backup.org";
+    "arena.ai";
     "arena.taipei";
     "arethusa.su";
     "arlingtoncemetery.mil";
     "arte.tv";
     "artstation.com";
     "arvanstorage.ir";
+    "arweave.org";
     "asacp.org";
     "asiaharvest.org";
     "asianage.com";
@@ -3937,6 +3939,7 @@
     "wiredpen.com";
     "wireguard.com";
     "wisevid.com";
+    "wispbyte.com";
     "withgoogle.com";
     "withyoutube.com";
     "witopia.net";
@@ -4210,4 +4213,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 4194 domains"
+/log info "GFW domain list updated with 4197 domains"
