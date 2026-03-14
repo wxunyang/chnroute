@@ -4032,6 +4032,7 @@
     "xcafe.in";
     "xcancel.com";
     "xcity.jp";
+    "xdaforums.com";
     "xerotica.com";
     "xfinity.com";
     "xfxssr.me";
@@ -4218,4 +4219,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 4202 domains"
+/log info "GFW domain list updated with 4203 domains"
